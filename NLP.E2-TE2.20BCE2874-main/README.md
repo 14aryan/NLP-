@@ -1,2 +1,2 @@
-# NLP.rohitbarik(E2_TE2)
-This repository has been created for my nlp class where we ll be given daily tasks under Sharmila Banu maam.
+# NLP.ARYAN AGRAWAL(E2_TE2)
+I created this repo for my NLP class, under the guidance of my Prof. Sharmila Banu K.
